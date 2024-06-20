@@ -1,4 +1,4 @@
-# [**Profissão: Cientista de Dados**]([https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados](https://github.com/JonatanAgneDeFreitas/Previsao-de-renda-1.git))
+# **Profissão: Cientista de Dados**
 
 ### [**Projeto #02**](https://github.com/JonatanAgneDeFreitas/Previsao-de-renda-1.git) | [Previsão de renda]
 
