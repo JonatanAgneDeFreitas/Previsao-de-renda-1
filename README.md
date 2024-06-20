@@ -2,7 +2,7 @@
 
 ### [**Projeto #02**](https://github.com/JonatanAgneDeFreitas/Previsao-de-renda-1.git) | [Previsão de renda]
 
-**Por:** [Jonatan Agne de Freitas]<br>
+**Por:** Jonatan Agne de Freitas<br>
 
 <!-- **Data:** 20 de junho de 2024.<br> -->
 <!-- **Última atualização:** 20 de junho de 2024. -->
