@@ -1,6 +1,6 @@
 # **Profissão: Cientista de Dados**
 
-### [**Projeto #02**](https://github.com/JonatanAgneDeFreitas/Previsao-de-renda-1.git) | [Previsão de renda]
+### **Projeto #02** | Previsão de renda
 
 **Por:** Jonatan Agne de Freitas<br>
 
